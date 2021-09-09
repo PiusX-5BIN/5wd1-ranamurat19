@@ -160,16 +160,24 @@ Dit project bestaat uit verschillende opdrachten. Je maakt de opdrachten in de j
 ---
 
 ## 🏆 Evaluatie
+  
+### Deadlines
+
+ - Week 1: opdracht 1
+ - Week 3: opdracht 2&3
+ - Week 4: evaluatie volledig project
+  
+### Leerdoelen
 
 
-### Markup
+#### Markup
 
 A | B | C | D | E
 ---|---|---|---|---
 Elementen worden correct genest. De semantisch juiste elementen werden gebruikt. De id's en classes van elementen zijn ingevuld waar nodig en hebben een duidelijke, correcte naam. Elementen zijn onderverdeeld in grotere elementen, en er is gekozen voor een optimale oplossing. | Elementen worden correct genest. De semantisch juiste elementen werden gebruikt. De id's en classes van elementen zijn ingevuld waar nodig, maar hebben soms nog onduidelijke naamgeving. Elementen zijn onderverdeeld in grotere elementen, hoewel er oplossingen bestaan die korter of optimaler zijn. | Elementen worden correct genest. De semantisch juiste elementen werden gebruikt. Elementen zijn niet voldoende onderverdeeld in grotere elementen. De id's en classes van elementen zijn ingevuld waar nodig, maar hebben vaak onduidelijke naamgeving. | Elementen worden correct genest. Elementen zijn niet voldoende onderverdeeld in grotere elementen. Er wordt geen rekening gehouden met de semantiek van de elementen. De id's en classes van elementen zijn ingevuld waar nodig, maar hebben vaak onduidelijke naamgeving. | Elementen worden niet correct genest. Elementen zijn niet voldoende onderverdeeld in grotere elementen. Er wordt geen rekening gehouden met de semantiek van de elementen. De id's en classes van elementen zijn niet of onduidelijk ingevuld waar nodig.
 
 
-### Foutopsporing
+#### Foutopsporing
 
 A | B | C | D | E
 ---|---|---|---|---
